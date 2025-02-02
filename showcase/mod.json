@@ -20,4 +20,7 @@
   "resources": {
     "sprites": ["resources/clapper.png"]
   }
+  "links": {
+		"source": "https://github.com/FlafyDev/showcase/tree/main/showcase"
+	}
 }
